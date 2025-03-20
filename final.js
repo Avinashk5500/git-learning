@@ -7,3 +7,6 @@ console.log("Random String:", randomString);
 
 const randomBoolean = Math.random() > 0.5;
 console.log(randomBoolean)
+
+const randomArray = [1, 2, 3, 4, 5];
+console.log(randomArray)
