@@ -13,3 +13,6 @@ console.log(randomArray)
 
 const PAYMENT_SUCCESS = "Payment successful!";
 console.log(PAYMENT_SUCCESS);
+
+const PAYMENT_FAILURE = "Payment failed!";
+console.log(PAYMENT_FAILURE)
