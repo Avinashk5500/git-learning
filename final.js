@@ -18,3 +18,5 @@ const PAYMENT_FAILURE = "Payment failed!";
 console.log(PAYMENT_FAILURE)
 const PAYMENT_PENDING = "Payment is pending...";
 console.log(PAYMENT_PENDING)
+const PAYMENT_REFUND = "Payment has been refunded.";
+console.log(PAYMENT_REFUND);
