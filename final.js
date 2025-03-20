@@ -10,3 +10,6 @@ console.log(randomBoolean)
 
 const randomArray = [1, 2, 3, 4, 5];
 console.log(randomArray)
+
+const PAYMENT_SUCCESS = "Payment successful!";
+console.log(PAYMENT_SUCCESS);
