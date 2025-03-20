@@ -16,3 +16,5 @@ console.log(PAYMENT_SUCCESS);
 
 const PAYMENT_FAILURE = "Payment failed!";
 console.log(PAYMENT_FAILURE)
+const PAYMENT_PENDING = "Payment is pending...";
+console.log(PAYMENT_PENDING)
