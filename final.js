@@ -4,3 +4,6 @@ console.log("Random Number:", randomNumber);
 
 const randomString = "CoderArmy";
 console.log("Random String:", randomString);
+
+const randomBoolean = Math.random() > 0.5;
+console.log(randomBoolean)
